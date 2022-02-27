@@ -1,0 +1,30 @@
+body {
+  background-color : lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main {
+  width : 1200px;
+  margin : auto;
+  padding : 2px 20px 2px 20px;
+  background-color : whitesmoke;
+  border-radius : 5px;
+}
+
+#profilepic {
+  float : right;
+  margin-right : 10px;
+  margin-top : 20px;
+}
+
+table tr td {
+  vertical-align : top;
+  padding : 2px 5px 2px 5px;
+}
+
+li {
+  margin : 5px 0 5px 0;
+}
